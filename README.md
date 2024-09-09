@@ -1,5 +1,3 @@
-Here's a simplified version of the README without any code:
-
 ---
 
 # Loan Approval Prediction Project
